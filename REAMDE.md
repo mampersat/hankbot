@@ -1,6 +1,8 @@
 # John HankBot
 
-### A 3D-printed signature-forging robot
+### A 3D-printer signature-forging robot
+
+<img src="images/v2.png"/>
 
 **John HankBot** is a fun project that transforms a standard 3D printer into a signature-forging machine. Inspired by the iconic John Hancock signature, this bot automates the process of signing documents with precision and flair!
 
